@@ -1,4 +1,7 @@
-### Exam 2019/20
+---
+title: Exam 2019/20 - my solutions
+author: Diogo Rodrigues
+---
 
 #### Question 1
 

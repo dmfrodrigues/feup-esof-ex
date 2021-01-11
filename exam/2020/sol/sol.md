@@ -1,4 +1,6 @@
-﻿### Exam 2019/20
+﻿---
+title: Exam 2019/20 - others' solutions
+---
 
 #### Question 1
 (2/2)
